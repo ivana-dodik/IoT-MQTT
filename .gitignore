@@ -1,0 +1,47 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Environment related files
+.env
+
+# IDE or editor specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+venv/
+env/
+env2/
+env3/
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Database files
+*.db
+*.sqlite3
+
+# Generated HTML/CSS/JS files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+__pycache__
